@@ -27,6 +27,8 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_ENABLE_BLUR := true
 TARGET_HAS_UDFPS := true
 
+PRODUCT_NO_CAMERA := false
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := lineage_hotdog
 PRODUCT_DEVICE := hotdog
